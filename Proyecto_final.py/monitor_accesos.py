@@ -122,6 +122,6 @@ def main():
             print("Opción no válida. Por favor, intente de nuevo.")
 
 # --- Punto de entrada del script ---
-# Esto asegura que main() solo se ejecute cuando corres este archivo directamente
+# Esto asegura que main() solo se ejecute cuando se corre este archivo directamente
 if __name__ == "__main__":
     main()
